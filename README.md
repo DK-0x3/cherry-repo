@@ -1,8 +1,8 @@
-# cherry-repo
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dk-0x3/cherry-repo/main/assets/logo.svg" width="200" alt="create-repo logo">
+  <img src="https://raw.githubusercontent.com/DK-0x3/cherry-repo/refs/heads/main/assets/logo.svg" width="200" alt="create-repo logo">
 </p>
+
+# cherry-repo
 
 Универсальный CLI-инструмент для быстрого клонирования GitHub-репозиториев.  
 Поддерживает указание ветки, автоматическую инициализацию git, указание пути клонирования.
