@@ -1,0 +1,17 @@
+{
+  "name": "cherry-repo",
+  "version": "1.0.0",
+  "bin": {
+    "create-repo": "./index.js"
+  },
+  "private": false,
+  "description": "a package for cloning github repositories",
+  "keywords": ["cli", "create", "github", "repo", "template"],
+  "license": "MIT",
+  "author": "dk-0x3",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
+}
